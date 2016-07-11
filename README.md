@@ -3,8 +3,8 @@ The first project for learning python
 
 # Never Leave Your Room
 
-### 66 Yvain 18 March 2009 12:30AM
-### Related to: Priming and Contamination
+- 66 Yvain 18 March 2009 12:30AM
+- Related to: Priming and Contamination
 
 Psychologists define "priming" as the ability of a stimulus to activate the brain in such a way as to affect responses to later stimuli. If that doesn't sound sufficiently ominous, feel free to re-word it as "any random thing that happens to you can hijack your judgment and personality for the next few minutes."
 
